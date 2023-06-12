@@ -1,0 +1,6 @@
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\bin\Release\LibrarieModele.dll
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\bin\Release\LibrarieModele.pdb
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\obj\Release\LibrarieModele.csproj.AssemblyReference.cache
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\obj\Release\LibrarieModele.csproj.CoreCompileInputs.cache
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\obj\Release\LibrarieModele.dll
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\obj\Release\LibrarieModele.pdb

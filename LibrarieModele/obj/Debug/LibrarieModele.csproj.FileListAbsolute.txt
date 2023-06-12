@@ -1,0 +1,12 @@
+C:\Users\Professional\Downloads\DotNetOracle\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Professional\Downloads\DotNetOracle\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Professional\Downloads\DotNetOracle\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Professional\Downloads\DotNetOracle\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Downloads\DotNetOracle\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Professional\Downloads\DotNetOracle\LibrarieModele\obj\Debug\LibrarieModele.pdb
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\bin\Debug\LibrarieModele.dll
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\bin\Debug\LibrarieModele.pdb
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\obj\Debug\LibrarieModele.dll
+D:\UNI\Anul3\Sem2\BD\ProiectBD\LibrarieModele\obj\Debug\LibrarieModele.pdb

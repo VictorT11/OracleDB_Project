@@ -1,0 +1,25 @@
+﻿Oracle.DataAccess.Client.OracleException (0x80004005): ORA-00933: SQL command not properly ended
+   в Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck, Int32 isRecoverable, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   в NivelAccesDate.SqlDBHelper.ExecuteNonQuery(String sql, CommandType cmdType, OracleParameter[] parameters) в D:\UNI\Anul3\Sem2\BD\ProiectBD\NivelAccesDate\SQLDbHelper.cs:строка 85
+Oracle.DataAccess.Client.OracleException (0x80004005): ORA-01747: invalid user.table.column, table.column, or column specification
+   в Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck, Int32 isRecoverable, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   в NivelAccesDate.SqlDBHelper.ExecuteNonQuery(String sql, CommandType cmdType, OracleParameter[] parameters) в D:\UNI\Anul3\Sem2\BD\ProiectBD\NivelAccesDate\SQLDbHelper.cs:строка 85
+Oracle.DataAccess.Client.OracleException (0x80004005): ORA-01747: invalid user.table.column, table.column, or column specification
+   в Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck, Int32 isRecoverable, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   в NivelAccesDate.SqlDBHelper.ExecuteNonQuery(String sql, CommandType cmdType, OracleParameter[] parameters) в D:\UNI\Anul3\Sem2\BD\ProiectBD\NivelAccesDate\SQLDbHelper.cs:строка 85
+Oracle.DataAccess.Client.OracleException (0x80004005): ORA-01747: invalid user.table.column, table.column, or column specification
+   в Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck, Int32 isRecoverable, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   в NivelAccesDate.SqlDBHelper.ExecuteNonQuery(String sql, CommandType cmdType, OracleParameter[] parameters) в D:\UNI\Anul3\Sem2\BD\ProiectBD\NivelAccesDate\SQLDbHelper.cs:строка 85
+Oracle.DataAccess.Client.OracleException (0x80004005): ORA-01747: invalid user.table.column, table.column, or column specification
+   в Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck, Int32 isRecoverable, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck, OracleLogicalTransaction m_OracleLogicalTransaction)
+   в Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   в NivelAccesDate.SqlDBHelper.ExecuteNonQuery(String sql, CommandType cmdType, OracleParameter[] parameters) в D:\UNI\Anul3\Sem2\BD\ProiectBD\NivelAccesDate\SQLDbHelper.cs:строка 85
